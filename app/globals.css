@@ -18,6 +18,37 @@ body {
   color: var(--foreground);
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
+  width:100%;
+}
+
+nav{
+  background-color:coral;
+  height: 20px;
+  display:inline-flex;
+  width:85%;
+}
+nav a{
+  padding-inline: 10px;
+  text-align:left;
+  width:100%;
+  border-right-style: solid;
+  border-right-width: .2px;
+  border-right-color: black;
+}
+a:last-child{
+  text-align:right;
+  border:none;
+}
+.page-body{
+  width:85%;
+  background-color:gray;
+  text-align:left;
+}
+.site-title{
+  color: black;
+  text-align: left;
+  display:flex;
+  width:100%;
 }
 
 @layer utilities {

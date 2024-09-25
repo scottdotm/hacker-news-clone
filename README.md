@@ -1,3 +1,8 @@
+Checkpoint 1
+https://docs.google.com/document/d/1eqhtsJ8JrX47GbOJTpYrEVsyGlRbcGqaXjxz6oJBvek/edit?usp=sharing
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started

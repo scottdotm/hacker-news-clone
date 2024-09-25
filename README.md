@@ -1,4 +1,5 @@
-Checkpoint 1
+Checkpoint 1 - Project Proposal
+
 https://docs.google.com/document/d/1eqhtsJ8JrX47GbOJTpYrEVsyGlRbcGqaXjxz6oJBvek/edit?usp=sharing
 
 

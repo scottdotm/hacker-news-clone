@@ -1,3 +1,6 @@
+This project is for Database Management Systems class at the University of Wisconsin Whitewater.
+
+
 Checkpoint 1 - Project Proposal
 
 https://docs.google.com/document/d/1eqhtsJ8JrX47GbOJTpYrEVsyGlRbcGqaXjxz6oJBvek/edit?usp=sharing
